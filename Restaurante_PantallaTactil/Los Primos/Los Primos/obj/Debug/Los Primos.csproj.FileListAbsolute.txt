@@ -1,0 +1,42 @@
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\bin\Debug\Los Primos.exe.config
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\bin\Debug\Los Primos.exe
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\bin\Debug\Los Primos.pdb
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los Primos.csprojAssemblyReference.cache
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los_Primos.Form1.resources
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los_Primos.Properties.Resources.resources
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los Primos.csproj.GenerateResource.cache
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los Primos.csproj.CoreCompileInputs.cache
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los Primos.exe
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los Primos.pdb
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los_Primos.Form2.resources
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los_Primos.MenuPrincipal.resources
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los_Primos.Menu_Tipos.resources
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los_Primos.Tomar_o_llevar.resources
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los_Primos.UserControl_Shawarma.resources
+C:\Users\PersonalCastro\source\repos\Los Primos\Los Primos\obj\Debug\Los_Primos.Info_shawarma.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\bin\Debug\Los Primos.exe.config
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\bin\Debug\Los Primos.exe
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\bin\Debug\Los Primos.pdb
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los Primos.csprojAssemblyReference.cache
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.Form1.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.Form2.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.Info_shawarma.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.MenuPrincipal.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.Menu_Tipos.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.Properties.Resources.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.Tomar_o_llevar.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.UserControl_Shawarma.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los Primos.csproj.GenerateResource.cache
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los Primos.csproj.CoreCompileInputs.cache
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los Primos.exe
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los Primos.pdb
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.Info_durum.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.Info_Hamburguesa.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.Info_Tarrina.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.MetodoDePago.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.TerminarPedido.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los_Primos.UserControl1.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\bin\Debug\Los Primos.exe.manifest
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\bin\Debug\Los Primos.application
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los Primos.exe.manifest
+E:\VisualStudio2017 (Proyectos)\Ejercicios de Forms\Los Primos\Los Primos\obj\Debug\Los Primos.application

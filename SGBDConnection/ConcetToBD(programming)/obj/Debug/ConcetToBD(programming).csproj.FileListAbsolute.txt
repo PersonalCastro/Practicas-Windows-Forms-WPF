@@ -1,0 +1,16 @@
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\bin\Debug\ConcetToBD(programming).exe.config
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\bin\Debug\ConcetToBD(programming).exe
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\bin\Debug\ConcetToBD(programming).pdb
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\obj\Debug\ConcetToBD(programming).csprojAssemblyReference.cache
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\obj\Debug\ConcetToBD_programming_.Form1.resources
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\obj\Debug\ConcetToBD_programming_.Properties.Resources.resources
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\obj\Debug\ConcetToBD(programming).csproj.GenerateResource.cache
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\obj\Debug\ConcetToBD(programming).csproj.CoreCompileInputs.cache
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\obj\Debug\ConcetToBD(programming).exe
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\obj\Debug\ConcetToBD(programming).pdb
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\bin\Debug\MySql.Data.dll
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\bin\Debug\Google.Protobuf.dll
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\bin\Debug\Renci.SshNet.dll
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\bin\Debug\MySql.Data.xml
+C:\Users\PersonalCastro\source\repos\ConcetToBD(programming)\ConcetToBD(programming)\obj\Debug\ConcetToBD(programming).csproj.CopyComplete

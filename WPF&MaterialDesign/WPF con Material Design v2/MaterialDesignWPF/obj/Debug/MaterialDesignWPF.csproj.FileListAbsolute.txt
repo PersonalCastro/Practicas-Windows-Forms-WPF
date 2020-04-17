@@ -1,0 +1,66 @@
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\bin\Debug\MaterialDesignWPF.exe.config
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\bin\Debug\MaterialDesignWPF.exe
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\bin\Debug\MaterialDesignWPF.pdb
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csprojAssemblyReference.cache
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MainWindow.g.cs
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\App.g.cs
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MaterialDesignWPF_MarkupCompile.cache
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MaterialDesignWPF_MarkupCompile.lref
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MainWindow.baml
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.g.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.Properties.Resources.resources
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csproj.GenerateResource.cache
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csproj.CoreCompileInputs.cache
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.exe
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.pdb
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\bin\Debug\MaterialDesignColors.dll
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\bin\Debug\MaterialDesignColors.pdb
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\App.baml
+E:\VisualStudio2017 (Proyectos)\Ejercicios de WPF\MaterialDesignWPF\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csproj.CopyComplete
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\bin\Debug\MaterialDesignWPF.exe.config
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\bin\Debug\MaterialDesignWPF.exe
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\bin\Debug\MaterialDesignWPF.pdb
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csprojAssemblyReference.cache
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MainWindow.g.cs
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\App.g.cs
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MaterialDesignWPF_MarkupCompile.cache
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MaterialDesignWPF_MarkupCompile.lref
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\App.baml
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MainWindow.baml
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.g.resources
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.Properties.Resources.resources
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csproj.GenerateResource.cache
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csproj.CoreCompileInputs.cache
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csproj.CopyComplete
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.exe
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v1\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.pdb
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\bin\Debug\MaterialDesignWPF.exe.config
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\bin\Debug\MaterialDesignWPF.exe
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\bin\Debug\MaterialDesignWPF.pdb
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csprojAssemblyReference.cache
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MainWindow.baml
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MainWindow.g.cs
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\App.g.cs
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MaterialDesignWPF_MarkupCompile.cache
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MaterialDesignWPF_MarkupCompile.lref
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\App.baml
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.g.resources
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.Properties.Resources.resources
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csproj.GenerateResource.cache
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csproj.CoreCompileInputs.cache
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.csproj.CopyComplete
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.exe
+C:\Users\PersonalCastro\Desktop\Entrega DI\WPF con Material Design v2\MaterialDesignWPF\obj\Debug\MaterialDesignWPF.pdb
